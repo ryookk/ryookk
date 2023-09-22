@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marvin Paongilan</h1>
+<h1 align="center">Hi 👋, I'm Marvin V. Paongilan</h1>
 <h4 align="center">I've created this second account due to issues with my original one.</h4>
 <h3 align="center">I'm a passionate WEB DEVELOPER from the Philippines</h3>
 
