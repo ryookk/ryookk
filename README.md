@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvin V. Paongilan</h1>
 <h4 align="center">I've created this second account due to issues with my original one.</h4>
-<h3 align="center">I'm a passionate WEB DEVELOPER from the Philippines</h3>
+<h3 align="center">I'm a passionate WEB DEVELOPER from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryookk&label=Profile%20views&color=0e75b6&style=flat" alt="ryookk" /> </p>
 
